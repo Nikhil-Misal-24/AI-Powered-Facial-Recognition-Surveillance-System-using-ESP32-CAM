@@ -19,7 +19,7 @@ The system operates on a client-server model:
 1) Hardware: ESP32-CAM Module, FTDI Programmer.
 2) Firmware: C++ (Arduino Framework) for ESP32 Wi-Fi & Camera configuration.
 3) Backend: Python 3.x.
-4) Libraries: * OpenCV: For image pre-processing and frame manipulation.
+5) Libraries: * OpenCV: For image pre-processing and frame manipulation.
 i) Face_Recognition: For generating and comparing facial encodings.
 ii) NumPy: For optimized mathematical operations on image arrays.
 iii) Requests: For handling the MJPEG stream over HTTP.
